@@ -1,7 +1,7 @@
 <template>
   {{ counter }}
-  <ZlButton @click="handleClick">Add</ZlButton>
-  <zl-tag @click="handleClick">Tag</zl-tag>
+  <lp-Button @click="handleClick">Add</lp-Button>
+  <lp-tag @click="handleClick">Tag</lp-tag>
 </template>
 <script setup>
 import { userStore } from '@/store/user'

@@ -5,7 +5,7 @@
 </template>
 <script>
 export default {
-  name: 'ZlTag'
+  name: 'LpTag'
 }
 </script>
 <script setup></script>

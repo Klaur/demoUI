@@ -1,5 +1,5 @@
 {
-  "name": "zlui",
+  "name": "lpui",
   "version": "0.1.0",
   "private": false,
   "scripts": {
@@ -7,7 +7,7 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "lib": "vue-cli-service build --target lib --name zlUI --dest lib packages/index.js"
+    "lib": "vue-cli-service build --target lib --name lpui --dest lib packages/index.js"
   },
   "dependencies": {
     "core-js": "^3.8.3",
@@ -33,6 +33,6 @@
     "vite": "^4.3.9"
   },
   "main": "lib/index.js",
-  "author": "Zhangleping <282812458@qq.com>",
-  "license": "ISC"
+  "author": "Zhangleping <zhangleping613@163.com>",
+  "license": "MIT"
 }
