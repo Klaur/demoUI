@@ -5,7 +5,7 @@
 </template>
 <script>
 export default {
-  name: 'LpTag'
+  name: 'FyTag'
 }
 </script>
 <script setup></script>

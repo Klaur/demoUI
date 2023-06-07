@@ -6,7 +6,7 @@
 </template>
 <script>
 export default {
-  name: 'LpButton'
+  name: 'FyButton'
 }
 </script>
 <script setup>
