@@ -1,7 +1,7 @@
 <template>
   {{ counter }}
-  <lp-Button @click="handleClick">Add</lp-Button>
-  <lp-tag @click="handleClick">Tag</lp-tag>
+  <fy-Button @click="handleClick">Add</fy-Button>
+  <fy-tag @click="handleClick">Tag</fy-tag>
 </template>
 <script setup>
 import { userStore } from '@/store/user'

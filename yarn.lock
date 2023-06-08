@@ -3423,6 +3423,16 @@ faye-websocket@^0.11.3:
   dependencies:
     websocket-driver ">=0.5.1"
 
+feiya-ui@^0.1.0:
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/feiya-ui/-/feiya-ui-0.1.0.tgz#7344c79d32e3e797154a3f3a1cf2628323989f92"
+  integrity sha512-ErlQTAJw/9V4uCvcVZ0R90oWTzh5yhHLVxcWfUE5zWgNRQ0e+S98vK7gtHPkjwHDHwJk5dY1HC+FkSFlKnRXHw==
+  dependencies:
+    core-js "^3.8.3"
+    pinia "^2.1.3"
+    vue "^3.3.4"
+    vue-router "^4.0.3"
+
 figures@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/figures/-/figures-2.0.0.tgz#3ab1a2d2a62c8bfb431a0c94cb797a2fce27c962"
